@@ -1,5 +1,6 @@
 # mini_project_BI
 Link to my jupyter notebook: https://github.com/NCa307/mini_project_BI/blob/main/miniBI_project.ipynb
+Link to my Tableau workbook: https://public.tableau.com/app/profile/nur.ca6787/viz/Tableau_mini_project_17540425259050/Dashboard1?publish=yes
 Hypotheses to be explored:
 1) House prices increase with larger living areas
 2) Houses with better conditions have higher median prices than lower condition ones.
